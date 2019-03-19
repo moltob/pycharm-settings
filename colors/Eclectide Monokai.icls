@@ -1,6 +1,7 @@
 <scheme name="Eclectide Monokai" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <option name="CONSOLE_FONT_NAME" value="Fira Code" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
@@ -490,13 +491,13 @@
     <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
     <option name="LINE_FULL_COVERAGE">
       <value>
-        <option name="BACKGROUND" value="f410a" />
+        <option name="BACKGROUND" value="12360f" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="LINE_NONE_COVERAGE">
       <value>
-        <option name="BACKGROUND" value="5e0000" />
+        <option name="BACKGROUND" value="440000" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
