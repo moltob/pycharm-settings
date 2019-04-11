@@ -3,11 +3,9 @@
     <macro name="&lt;noname&gt;">
       <action id="EditorNextWord" />
       <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <typing text-keycode="77:0;79:0;78:0;69:0;89:0;46:0;77:1;79:0;78:0;69:0;89:0;56:1">money.Money(</typing>
-      <action id="EditorLineEnd" />
-      <action id="EditorLeft" />
-      <typing text-keycode="44:0;32:0;520:1;69:1;85:1;82:1;520:1;57:1">,&amp;#x20;'EUR')</typing>
+      <action id="EditorLineEndWithSelection" />
+      <action id="EditorLeftWithSelection" />
+      <action id="EditorDelete" />
       <action id="EditorLineEnd" />
       <action id="EditorRight" />
     </macro>

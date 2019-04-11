@@ -61,6 +61,9 @@
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
+  <action id="Tool_External Tools_pylint">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+  </action>
   <action id="com.jetbrains.python.console.RunPythonConsoleAction">
     <keyboard-shortcut first-keystroke="shift ctrl alt p" />
   </action>
