@@ -7,7 +7,6 @@
       <mapping pattern=".coveragerc" type="Ini" />
       <mapping ext="tpl" type="Jinja2" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
-      <mapping ext="toml" type="PLAIN_TEXT" />
       <mapping ext="bsw" type="PLAIN_TEXT" />
       <mapping ext="cmake" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
