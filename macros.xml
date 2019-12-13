@@ -1,36 +1,13 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
+      <action id="EditorLineEnd" />
+      <shortuct text="control alt 9" />
       <action id="EditorPreviousWord" />
-      <typing text-keycode="73:1;78:0;84:0;67:0;79:0;68:0;69:0;56:1">Intcode(</typing>
-      <action id="EditorDelete" />
-      <action id="EditorDelete" />
-      <action id="EditorDelete" />
-      <action id="EditorDelete" />
+      <action id="EditorPreviousWord" />
+      <shortuct text="control alt 8" />
+      <action id="EditorLineEnd" />
       <action id="EditorRight" />
-      <action id="EditorRight" />
-      <action id="EditorRight" />
-      <action id="EditorRight" />
-      <action id="EditorRight" />
-      <action id="EditorRight" />
-      <action id="EditorRight" />
-      <action id="EditorRight" />
-      <action id="EditorRight" />
-      <action id="EditorRight" />
-      <action id="EditorRight" />
-      <action id="EditorLeft" />
-      <action id="EditorLeft" />
-      <action id="EditorLeft" />
-      <action id="EditorLeft" />
-      <action id="EditorLeft" />
-      <action id="EditorLeft" />
-      <action id="EditorLeft" />
-      <action id="EditorLeft" />
-      <action id="EditorLeft" />
-      <action id="EditorLeft" />
-      <action id="EditorLeft" />
     </macro>
   </component>
 </application>
