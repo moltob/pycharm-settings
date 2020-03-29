@@ -37,11 +37,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
   <action id="ReplaceInPath" />
-  <action id="ServiceView.GroupByContributor" />
   <action id="StartStopMacroRecording">
     <keyboard-shortcut first-keystroke="shift ctrl r" />
   </action>
-  <action id="SurroundWith" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
