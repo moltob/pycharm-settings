@@ -4,6 +4,15 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="ctrl dead_acute" />
   </action>
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="ctrl alt k" />
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl alt slash" />
+    <keyboard-shortcut first-keystroke="ctrl alt divide" />
+  </action>
+  <action id="Debugger.MarkObject" />
   <action id="EditorCodeBlockEnd">
     <keyboard-shortcut first-keystroke="ctrl close_bracket" />
     <keyboard-shortcut first-keystroke="ctrl asterisk" />
@@ -30,13 +39,21 @@
   <action id="Generate">
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
+  <action id="GotoNextBookmark" />
+  <action id="GotoPreviousBookmark" />
   <action id="Pause">
     <keyboard-shortcut first-keystroke="ctrl pause" />
   </action>
   <action id="PlaybackLastMacro">
     <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+  </action>
   <action id="ReplaceInPath" />
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="alt f7" />
+  </action>
   <action id="StartStopMacroRecording">
     <keyboard-shortcut first-keystroke="shift ctrl r" />
   </action>
@@ -55,6 +72,7 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
+  <action id="ToggleBookmark" />
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="shift ctrl alt enter" />
   </action>
@@ -69,6 +87,9 @@
   </action>
   <action id="Tool_External Tools_pylint">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
+  </action>
+  <action id="Vcs.ReformatCommitMessage">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
   <action id="com.jetbrains.python.console.RunPythonConsoleAction">
     <keyboard-shortcut first-keystroke="shift ctrl alt p" />
