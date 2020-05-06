@@ -13,6 +13,7 @@
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="model" type="Python" />
       <mapping pattern="dbinit" type="Python" />
+      <mapping ext="caf" type="XML" />
       <mapping ext="ecore" type="XML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
